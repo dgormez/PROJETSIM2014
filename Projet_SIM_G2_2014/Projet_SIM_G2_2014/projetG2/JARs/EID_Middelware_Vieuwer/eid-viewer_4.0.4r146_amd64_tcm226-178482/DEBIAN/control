@@ -1,0 +1,15 @@
+Package: eid-viewer
+Version: 4.0.4r146
+Architecture: amd64
+Maintainer: Frank Mariën <frank.marien@fedict.be>
+Installed-Size: 10848
+Depends: default-jre, pcscd
+Conflicts: beidgui
+Replaces: beidgui
+Provides: beidgui
+Section: misc
+Priority: optional
+Homepage: http://code.google.com/p/eid-viewer/
+Description: Graphical interface to Belgian Electronic Identity Card
+ This package contains a graphical application to read data from the
+ Belgian electronic identity card.

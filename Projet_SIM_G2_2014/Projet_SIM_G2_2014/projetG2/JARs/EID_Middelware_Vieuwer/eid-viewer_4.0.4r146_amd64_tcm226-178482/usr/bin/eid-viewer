@@ -1,0 +1,2 @@
+#!/bin/sh
+exec java -jar /usr/share/eid-viewer/eid-viewer.jar

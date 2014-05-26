@@ -1,0 +1,3 @@
+d:
+cd "D:\Users\INFO-H-400\Documents\NetBeansProjects\Projet_SIM_G2_2014\Projet_SIM_G2_2014\projetG2\JARs\JAR dcmMWL\dcm4che-2.0.26"
+dcmof DCMMWL:1112 -mwl "D:\Users\INFO-H-400\Documents\NetBeansProjects\Projet_SIM_G2_2014\Projet_SIM_G2_2014\projetG2\OutPutDicomFiles"

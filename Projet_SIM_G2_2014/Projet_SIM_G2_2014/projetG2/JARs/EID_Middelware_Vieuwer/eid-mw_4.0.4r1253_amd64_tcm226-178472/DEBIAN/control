@@ -1,0 +1,17 @@
+Package: eid-mw
+Version: 4.0.4r1253
+Architecture: amd64
+Maintainer: Frank Mariën <frank.marien@fedict.be>
+Installed-Size: 2676
+Depends: libatk1.0-0 (>= 1.29.3), libc6 (>= 2.8), libcairo2 (>= 1.2.4), libfontconfig1 (>= 2.8.0), libfreetype6 (>= 2.2.1), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.16.0), libgtk2.0-0 (>= 2.8.0), libpango1.0-0 (>= 1.14.0), libpcsclite1 (>= 1.5.3), libstdc++6 (>= 4.2.1), zlib1g (>= 1:1.1.4), pcscd
+Recommends: libccid, libacr38u
+Conflicts: libbeid2, libbeidlib2, libbeidlib3, libbeidlibopensc2
+Replaces: beidgui, libbeid2, libbeidlib2, libbeidlib3, libbeidlibopensc2
+Section: libs
+Priority: optional
+Homepage: http://code.google.com/p/eid-mw/
+Description: low-level support for Belgian Electronic Identity Card
+ This package contains a PKCS#11 module and a Firefox plugin for the
+ Belgian electronic identity card. You should install it if you wish to
+ use your electronic identity card to log on to online websites, or to
+ sign your mail and documents with it.

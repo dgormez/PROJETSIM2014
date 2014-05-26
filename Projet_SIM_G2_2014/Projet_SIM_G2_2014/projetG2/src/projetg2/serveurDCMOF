@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+
+cd ~/NetBeansProjects/projetG2/JARs/JAR\ dcmMWL/dcm4che-2.0.26/bin/
+./dcmof DCMMWL:1112 -mwl /home/david/NetBeansProjects/projetG2/OutPutDicomFiles/DicomObj
